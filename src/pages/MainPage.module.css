@@ -1,0 +1,32 @@
+.container{
+    height: 100vh;
+    width: 100%;
+}
+.top{
+    height: calc(13% - 40px);
+    padding: 20px;
+    padding-left: 40px;
+}
+.heading{
+    color: rgb(0, 98, 255);
+    font-size: 27px;
+}
+.stepper{
+    width: 300px;
+    margin-top: 10px;
+
+}
+.content{
+    padding-left: 40px;
+    padding-right: 40px;
+    min-height: calc(77% - 80px);
+}
+.buttons{
+    width: calc(100% - 40px);
+    display: flex;
+    height: calc(10% - 40px);
+    padding: 20px;
+    position: fixed;
+    bottom: 0px;
+}
+

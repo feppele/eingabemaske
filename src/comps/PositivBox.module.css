@@ -1,0 +1,14 @@
+.box{
+
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+}
+
+.boxHeading{
+    color: rgb(0, 98, 255);
+
+    font-size: 18px;
+    margin-bottom: 7px;
+}
